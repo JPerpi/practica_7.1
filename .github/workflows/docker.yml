@@ -38,5 +38,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            jperpi/practica_7.1:latest
+            jperpi/practica_7.1:lates
             ghcr.io/jperpi/practica_7.1:latest

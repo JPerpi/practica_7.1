@@ -2,10 +2,10 @@ name: Granja Animales Node.js CI
 on:
   push:
     branches:
-        - feat-nuevoanimal
+        - main
   pull_request:
     branches:
-        - feat-nuevoanimal
+        - main
 jobs:
   build:
     runs-on: ubuntu-latest
